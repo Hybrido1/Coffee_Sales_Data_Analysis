@@ -64,6 +64,7 @@ The insights from this analysis can help with inventory planning, promotional st
 - Payment Preferences: Over 92% of transactions are card-based.
 
 📌 Conclusion
+
 The analysis reveals clear patterns in customer preferences and purchasing behavior, enabling better decision-making for product stocking, promotional timing, and payment system optimization.
 
 🔮 Future Scope
